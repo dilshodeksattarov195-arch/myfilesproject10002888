@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cachesncrypt",
+        "uuid": 21001536,
+        "checksum": "cans02"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
